@@ -152,11 +152,11 @@
             <objects>
                 <viewController storyboardIdentifier="MyTicketViewController" id="lqN-wO-KXc" customClass="MyTicketViewController" customModule="BusBookingApp" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="sBV-G0-Sku">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="886"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <collectionView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" dataMode="prototypes" translatesAutoresizingMaskIntoConstraints="NO" id="zst-Wo-1EF">
-                                <rect key="frame" x="0.0" y="48" width="414" height="765"/>
+                                <rect key="frame" x="0.0" y="0.0" width="414" height="886"/>
                                 <color key="backgroundColor" red="1" green="0.92549019610000005" blue="0.6588235294" alpha="0.86246354059999997" colorSpace="custom" customColorSpace="calibratedRGB"/>
                                 <collectionViewFlowLayout key="collectionViewLayout" automaticEstimatedItemSize="YES" minimumLineSpacing="10" minimumInteritemSpacing="10" id="Ptj-hL-VaN">
                                     <size key="itemSize" width="414" height="153"/>
@@ -165,7 +165,7 @@
                                     <inset key="sectionInset" minX="0.0" minY="0.0" maxX="0.0" maxY="0.0"/>
                                 </collectionViewFlowLayout>
                                 <label key="backgroundView" opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="Z85-qG-zBG">
-                                    <rect key="frame" x="0.0" y="0.0" width="414" height="765"/>
+                                    <rect key="frame" x="0.0" y="0.0" width="414" height="886"/>
                                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                     <constraints>
                                         <constraint firstAttribute="height" constant="765" id="3bX-P6-vaI"/>
@@ -663,7 +663,7 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" translatesAutoresizingMaskIntoConstraints="NO" id="NcY-DG-SVR">
-                                <rect key="frame" x="146" y="448" width="140" height="116"/>
+                                <rect key="frame" x="146" y="462" width="140" height="116"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="116" id="E7v-g6-1Av"/>
                                 </constraints>
@@ -677,16 +677,16 @@
                             <constraint firstItem="NcY-DG-SVR" firstAttribute="centerX" secondItem="5Fg-Me-wY2" secondAttribute="centerX" id="MLy-fZ-lkM"/>
                             <constraint firstItem="NcY-DG-SVR" firstAttribute="leading" secondItem="6af-pE-ADs" secondAttribute="leading" constant="146" id="Mwg-4e-JKn"/>
                             <constraint firstItem="5Fg-Me-wY2" firstAttribute="centerX" secondItem="Zat-hR-386" secondAttribute="centerX" id="OsZ-P5-RSC"/>
-                            <constraint firstItem="5Fg-Me-wY2" firstAttribute="top" secondItem="NcY-DG-SVR" secondAttribute="bottom" constant="22" id="P55-YL-YSt"/>
+                            <constraint firstItem="5Fg-Me-wY2" firstAttribute="top" secondItem="NcY-DG-SVR" secondAttribute="bottom" constant="8" id="P55-YL-YSt"/>
                             <constraint firstItem="muy-Lp-cte" firstAttribute="trailing" secondItem="FgK-UP-2B2" secondAttribute="trailingMargin" id="Q83-8c-tCl"/>
                             <constraint firstItem="6af-pE-ADs" firstAttribute="bottom" secondItem="Zat-hR-386" secondAttribute="bottom" constant="136" id="SHT-2E-HXT"/>
                             <constraint firstItem="Zat-hR-386" firstAttribute="leading" secondItem="6af-pE-ADs" secondAttribute="leading" constant="74" id="Tky-Aa-98c"/>
                             <constraint firstItem="6af-pE-ADs" firstAttribute="trailing" secondItem="Zat-hR-386" secondAttribute="trailing" constant="55" id="jiw-Ln-Kr3"/>
-                            <constraint firstItem="NcY-DG-SVR" firstAttribute="top" secondItem="muy-Lp-cte" secondAttribute="bottom" constant="107" id="ldx-CE-Yvg"/>
+                            <constraint firstItem="NcY-DG-SVR" firstAttribute="top" secondItem="muy-Lp-cte" secondAttribute="bottom" constant="121" id="ldx-CE-Yvg"/>
                             <constraint firstItem="muy-Lp-cte" firstAttribute="leading" secondItem="FgK-UP-2B2" secondAttribute="leadingMargin" id="qHy-Vh-WMy"/>
                             <constraint firstItem="5Fg-Me-wY2" firstAttribute="leading" secondItem="6af-pE-ADs" secondAttribute="leading" constant="66" id="qx4-kD-CUN"/>
                             <constraint firstItem="muy-Lp-cte" firstAttribute="centerX" secondItem="B8R-RU-0Q2" secondAttribute="centerX" id="sFt-WH-gKX"/>
-                            <constraint firstItem="NcY-DG-SVR" firstAttribute="centerY" secondItem="FgK-UP-2B2" secondAttribute="centerY" constant="58" id="xMy-kx-x8G"/>
+                            <constraint firstItem="NcY-DG-SVR" firstAttribute="centerY" secondItem="FgK-UP-2B2" secondAttribute="centerY" constant="72" id="xMy-kx-x8G"/>
                         </constraints>
                     </view>
                     <tabBarItem key="tabBarItem" title="Item" id="lHw-sO-nom"/>
@@ -1419,7 +1419,7 @@
         </scene>
     </scenes>
     <inferredMetricsTieBreakers>
-        <segue reference="3Am-US-ACH"/>
+        <segue reference="lkx-XU-eN3"/>
     </inferredMetricsTieBreakers>
     <resources>
         <image name="bilett" width="696" height="278"/>
