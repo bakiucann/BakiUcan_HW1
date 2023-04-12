@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9516580D-ECB0-4D0F-87D6-D75943944180"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0A355173-24B3-4D09-AE77-4F1481B5752A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BusTicketApp/Extensions/UIViewExtension.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "cornerRadius"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "741DB5F1-A586-4EBA-852F-29E6722FF4C0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BusTicketApp/Views/TicketViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5592E57C-B4F0-4CB8-9DD4-2E34DECFDFB8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BusTicketApp/CostumViews/TicketCollectionViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "TicketCollectionViewCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "5592E57C-B4F0-4CB8-9DD4-2E34DECFDFB8 - 1884f44942fa6339"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BusTicketApp.TicketCollectionViewCell.button1.getter : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "BusTicketApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/emreusl/Desktop/C%CC%A7al%C4%B1s%CC%A7malar%C4%B1m/BusTicketApp/BusTicketApp/CostumViews/TicketCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "5592E57C-B4F0-4CB8-9DD4-2E34DECFDFB8 - 1a203e218c84332d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BusTicketApp.TicketCollectionViewCell.button1.setter : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "BusTicketApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/emreusl/Desktop/C%CC%A7al%C4%B1s%CC%A7malar%C4%B1m/BusTicketApp/BusTicketApp/CostumViews/TicketCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "5592E57C-B4F0-4CB8-9DD4-2E34DECFDFB8 - a0d2a05d54ab3eb2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BusTicketApp.TicketCollectionViewCell.button1.modify : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "BusTicketApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/emreusl/Desktop/C%CC%A7al%C4%B1s%CC%A7malar%C4%B1m/BusTicketApp/BusTicketApp/CostumViews/TicketCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "5592E57C-B4F0-4CB8-9DD4-2E34DECFDFB8 - 99a4e9f30a89df72"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BusTicketApp.TicketCollectionViewCell.button1.modify : Swift.Optional&lt;__C.UIButton&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "BusTicketApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/emreusl/Desktop/C%CC%A7al%C4%B1s%CC%A7malar%C4%B1m/BusTicketApp/BusTicketApp/CostumViews/TicketCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "5592E57C-B4F0-4CB8-9DD4-2E34DECFDFB8 - 197ebf7ea1e351a5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BusTicketApp.TicketCollectionViewCell.init(frame: __C.CGRect) -&gt; BusTicketApp.TicketCollectionViewCell"
+                  moduleName = "BusTicketApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/emreusl/Desktop/C%CC%A7al%C4%B1s%CC%A7malar%C4%B1m/BusTicketApp/BusTicketApp/CostumViews/TicketCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  uuid = "5592E57C-B4F0-4CB8-9DD4-2E34DECFDFB8 - 3f45c1cd1a7cdbe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BusTicketApp.TicketCollectionViewCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;BusTicketApp.TicketCollectionViewCell&gt;"
+                  moduleName = "BusTicketApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/emreusl/Desktop/C%CC%A7al%C4%B1s%CC%A7malar%C4%B1m/BusTicketApp/BusTicketApp/CostumViews/TicketCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "80">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "81CBE193-8BBD-47E6-96AF-B096DCC930EA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BusTicketApp/Views/MainMenuViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "109"
+            endingLineNumber = "109"
+            landmarkName = "collectionView(_:didSelectItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FE1DED1A-1A06-43E8-857B-CB6684EF505F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BusTicketApp/Views/TicketViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "collectionView(_:cellForItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E9110241-28A7-4DC3-84C0-1BA3DC40B1A5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BusTicketApp/Views/TicketViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "collectionView(_:cellForItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9C16C904-597F-4FB8-A00D-9E379DA56D95"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BusTicketApp/Views/TicketViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "68"
+            endingLineNumber = "68"
+            landmarkName = "collectionView(_:cellForItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9D041525-19B1-4F87-BA22-2ACA6169899C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BusTicketApp/CostumViews/TicketCollectionViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "TicketCollectionViewCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "9D041525-19B1-4F87-BA22-2ACA6169899C - 47541d8a04c8b98b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BusTicketApp.TicketCollectionViewCell.label.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "BusTicketApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/emreusl/Desktop/C%CC%A7al%C4%B1s%CC%A7malar%C4%B1m/BusTicketApp/BusTicketApp/CostumViews/TicketCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "9D041525-19B1-4F87-BA22-2ACA6169899C - 21b61e92b0da5587"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BusTicketApp.TicketCollectionViewCell.label.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "BusTicketApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/emreusl/Desktop/C%CC%A7al%C4%B1s%CC%A7malar%C4%B1m/BusTicketApp/BusTicketApp/CostumViews/TicketCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "9D041525-19B1-4F87-BA22-2ACA6169899C - 37401b1d43075126"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BusTicketApp.TicketCollectionViewCell.label.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "BusTicketApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/emreusl/Desktop/C%CC%A7al%C4%B1s%CC%A7malar%C4%B1m/BusTicketApp/BusTicketApp/CostumViews/TicketCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "9D041525-19B1-4F87-BA22-2ACA6169899C - b75c8a832141dc31"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BusTicketApp.TicketCollectionViewCell.label.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "BusTicketApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/emreusl/Desktop/C%CC%A7al%C4%B1s%CC%A7malar%C4%B1m/BusTicketApp/BusTicketApp/CostumViews/TicketCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "9D041525-19B1-4F87-BA22-2ACA6169899C - 197ebf7ea1e351fb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BusTicketApp.TicketCollectionViewCell.init(frame: __C.CGRect) -&gt; BusTicketApp.TicketCollectionViewCell"
+                  moduleName = "BusTicketApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/emreusl/Desktop/C%CC%A7al%C4%B1s%CC%A7malar%C4%B1m/BusTicketApp/BusTicketApp/CostumViews/TicketCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "156">
+               </Location>
+               <Location
+                  uuid = "9D041525-19B1-4F87-BA22-2ACA6169899C - 3f45c1cd1a7cde0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BusTicketApp.TicketCollectionViewCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;BusTicketApp.TicketCollectionViewCell&gt;"
+                  moduleName = "BusTicketApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/emreusl/Desktop/C%CC%A7al%C4%B1s%CC%A7malar%C4%B1m/BusTicketApp/BusTicketApp/CostumViews/TicketCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "124">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A483ED76-8F19-4D99-BA74-D7A35BFDCDB4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BusTicketApp/Views/TicketViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "collectionView(_:cellForItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
